@@ -8,3 +8,6 @@ const text = `My name is ${name}.
 I have a ${animalType} called ${animalName}`;
 
 console.log(text);
+
+console.log(`My name is ${name}.
+I have a ${animalType} called ${animalName}`);
