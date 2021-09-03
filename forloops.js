@@ -36,6 +36,7 @@ if ((counter = 0)) {
 } */
 
 /* from 1 to 16777216 - doubling */
+//couldn't make it work
 /* for (let counter = 0; counter <= 167; counter++) {
   console.log(counter);
 }
